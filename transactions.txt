@@ -1,0 +1,7 @@
+
+	
+Amount Debited: $50.0	Date: 2023-06-12 10:23:29
+	
+Amount Credited: $56.0	Date: 2023-06-12 10:23:29
+	
+Amount Debited: $78.0	Date: 2023-06-12 10:23:29
